@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 蓝毛鹦鹉的博客
+title: 蓝毛鹦鹉
 subtitle: ''
 description: ''
 keywords:
@@ -105,5 +105,5 @@ deploy:
   type: ''
 
 abbrlink:
-  alg: crc16 #算法选项：crc16丨crc32
+  alg: crc32 #算法选项：crc16丨crc32
   rep: dec #输出进制：dec为十进制，hex为十六进制
