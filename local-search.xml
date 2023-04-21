@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>为使用 hexo&amp;fluid 搭建的博客单独设置某篇文章的许可协议</title>
+    <link href="/posts/2978582430/"/>
+    <url>/posts/2978582430/</url>
+    
+    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>在文章的 Front-matter 中添加 <code>license:</code> 字段，并在 <code>license:</code> 后填写你选择的许可协议（如 BY）</p><blockquote><p>需要注意的是在 <code>license:</code> 后填写其他协议也是会显示出来的，但可能没有链接跳转</p></blockquote>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/posts/1243066710/"/>
     <url>/posts/1243066710/</url>
