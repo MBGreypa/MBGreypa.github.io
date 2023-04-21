@@ -1,7 +1,7 @@
 ---
 title: 为使用 hexo&fluid 搭建的博客单独设置某篇文章的许可协议
 date: 2023-04-21 21:32:07
-tags:
+tags: hexo
 ---
 
 # 
