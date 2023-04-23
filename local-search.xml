@@ -5,8 +5,8 @@
   
   <entry>
     <title>为使用 hexo&amp;fluid 搭建的博客单独设置某篇文章的许可协议</title>
-    <link href="/posts/2978582430/"/>
-    <url>/posts/2978582430/</url>
+    <link href="/post/2978582430/"/>
+    <url>/post/2978582430/</url>
     
     <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>在文章的 Front-matter 中添加 <code>license:</code> 字段，并在 <code>license:</code> 后填写你选择的许可协议（如 BY）</p><blockquote><p>需要注意的是在 <code>license:</code> 后填写其他协议也是会显示出来的，但可能没有链接跳转</p></blockquote>]]></content>
     
@@ -24,8 +24,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/posts/1243066710/"/>
-    <url>/posts/1243066710/</url>
+    <link href="/post/1243066710/"/>
+    <url>/post/1243066710/</url>
     
     <content type="html"><![CDATA[<p>使用C语言输出Hello World</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-meta">#<span class="hljs-keyword">include</span><span class="hljs-string">&lt;stdio.h&gt;</span></span><br>main()<br>&#123;<br>    <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;Hello World&quot;</span>);<br>&#125;<br></code></pre></td></tr></table></figure>]]></content>
     
